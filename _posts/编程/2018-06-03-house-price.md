@@ -1,6 +1,7 @@
 ---
 layout: blog
-banana: true
+code: true
+istop: true
 category: python
 title:  使用 python 爬取全国房价并分析
 date:   2018-06-03 10:06:42

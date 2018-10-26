@@ -1,6 +1,7 @@
 ---
 layout: blog
-banana: true
+code: true
+istop: true
 category: python
 title:  使用 face_recognition 和 opncv 编写实时人脸识别
 date:   2018-05-13 10:06:42

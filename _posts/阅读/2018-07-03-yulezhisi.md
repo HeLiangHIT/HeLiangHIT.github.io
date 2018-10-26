@@ -1,6 +1,7 @@
 ---
 layout: blog
 book: true
+istop: true
 background: blue
 category: 书籍
 background-image: http://ot1cc1u9t.bkt.clouddn.com/17-7-15/48174506.jpg
@@ -9,8 +10,6 @@ date:   2018-07-03 23:13:54
 tags:
 - 波兹曼
 - 赫胥黎
-redirect_from:
-  - /book/
 ---
 
 # 我们将毁于我们所热爱的东西

@@ -1,5 +1,6 @@
 ---
 layout: blog
+code: true
 istop: true
 title: "Markdown中插入数学公式的方法"
 background-image: https://o243f9mnq.qnssl.com/2017/06/116099051.jpg

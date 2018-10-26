@@ -1,6 +1,7 @@
 ---
 layout: blog
-banana: true
+code: true
+istop: true
 category: python
 title:  用 python 完成程序员的表白
 date:   2018-05-20 10:06:42
